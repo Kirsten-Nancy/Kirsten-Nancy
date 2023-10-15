@@ -1,5 +1,4 @@
-### Hi there 👋
-
+- 👋 Hi there, I'm Nancy Korir
 - 📖 I’m currently working on my Master's degree in Computer Science with a focus of Natural Language Processing.
 - 🌱 I’m currently interested in Machine Learning, Deep Learning, and Natural Language Processing.
 - 👯 I’m looking to collaborate on projects related to deep learning and natural language processing
