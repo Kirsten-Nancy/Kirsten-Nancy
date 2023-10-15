@@ -1,10 +1,9 @@
 - 👋 Hi there, I'm Nancy Korir
 - 📖 I’m currently working on my Master's degree in Computer Science with a focus of Natural Language Processing.
-- 🌱 I’m currently interested in Machine Learning, Deep Learning, and Natural Language Processing.
-- 👯 I’m looking to collaborate on projects related to deep learning and natural language processing
-- 💬 Ask me about ML/DL/NLP topics, Python, React, and mobile development with React Native.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, and Natural Language Processing.
+- 👯 I’m looking to collaborate on projects related to DL and NLP
+- 💬 Ask me about anything related to ML/DL/NLP topics, Python, React, and mobile development with React Native.
 - 📫 How to reach me: korjnan@gmail.com
-- 😄 Pronouns: She/Her
 <!--
 **Kirsten-Nancy/Kirsten-Nancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
